@@ -11,7 +11,9 @@
     "dev4": "nodemon ./js/04-array.js",
     "dev5": "nodemon ./js/05-if.js",
     "dev51": "start npm run dev4 && start npm run dev5",
-    "dev52": "npm-run-all --parallel dev4 dev5"
+    "dev52": "npm-run-all --parallel dev4 dev5",
+    "dev6": "nodemon ./js/06-function.js",
+    "dev7": "nodemon ./js/07-for.js"
   },
   "keywords": [],
   "author": "Paskanas",
