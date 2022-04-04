@@ -13,7 +13,8 @@
     "dev51": "start npm run dev4 && start npm run dev5",
     "dev52": "npm-run-all --parallel dev4 dev5",
     "dev6": "nodemon ./js/06-function.js",
-    "dev7": "nodemon ./js/07-for.js"
+    "dev7": "nodemon ./js/07-for.js",
+    "dev8": "nodemon ./js/08-arrow-functions.js"
   },
   "keywords": [],
   "author": "Paskanas",
